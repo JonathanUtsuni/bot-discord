@@ -1,4 +1,7 @@
-https://drive.google.com/file/d/1U9YK_61ipkljt6mxkB7cySL8XIAYQYY9/view?usp=sharing
-npm install discord.js ffmpeg fluent-ffmpeg @discordjs/opus ytdl-core --save
-npm i ffbinaries
-npm i ffmpeg-static
+
+complete folder with plugins : https://drive.google.com/file/d/1U9YK_61ipkljt6mxkB7cySL8XIAYQYY9/view?usp=sharing
+
+required plugins:
+1- npm install discord.js ffmpeg fluent-ffmpeg @discordjs/opus ytdl-core --save
+2- npm i ffbinaries
+3- npm i ffmpeg-static
